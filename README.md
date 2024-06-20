@@ -5,3 +5,5 @@ Welcome to my Data Science Internship Portfolio! In this repository, you will fi
 PROJECT
 
 1. Titanic Survival Detection Description: This project focuses on analyzing the Titanic dataset to predict passenger survival. It involves data preprocessing, exploratory data analysis, and building a machine learning model to predict survival probabilities.
+
+2. Sales Prediction Using Python: This project focuses on predicting sales for a business. It includes data preprocessing, exploratory data analysis, and the development of a predictive model to forecast future sales.
